@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "v-remote": "node scripts/v-remote.js",
-    "v-local": "node scripts/v-local.js"
+    "--pull-remote": "node scripts/v-remote.js",
+    "--push-local": "node scripts/v-local.js"
   },
   "repository": {
     "type": "git",
