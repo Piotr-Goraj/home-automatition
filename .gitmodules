@@ -1,0 +1,3 @@
+[submodule "home-server"]
+	path = home-server
+	url = git@github.com:Piotr-Goraj/home-server.git
