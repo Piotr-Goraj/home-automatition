@@ -1,0 +1,20 @@
+{
+  "name": "home-automatition",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "v-remote": "node scripts/v-remote.js",
+    "v-local": "node scripts/v-local.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piotr-Goraj/home-automatition.git"
+  },
+  "author": "PeterG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piotr-Goraj/home-automatition/issues"
+  },
+  "homepage": "https://github.com/Piotr-Goraj/home-automatition#readme"
+}
