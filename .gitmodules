@@ -7,3 +7,6 @@
 [submodule "home-automatition"]
 	path = home-automatition
 	url = git@github.com:Piotr-Goraj/home-automatition.git
+[submodule "aquarium-automatition"]
+	path = aquarium-automatition
+	url = git@github.com:Piotr-Goraj/aquarium-automatition.git
