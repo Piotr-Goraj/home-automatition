@@ -4,3 +4,6 @@
 [submodule "esp-staircase"]
 	path = esp-staircase
 	url = git@github.com:Piotr-Goraj/esp-staircase.git
+[submodule "home-automatition"]
+	path = home-automatition
+	url = git@github.com:Piotr-Goraj/home-automatition.git
