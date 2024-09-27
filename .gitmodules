@@ -1,3 +1,6 @@
 [submodule "home-server"]
 	path = home-server
 	url = git@github.com:Piotr-Goraj/home-server.git
+[submodule "esp-staircase"]
+	path = esp-staircase
+	url = git@github.com:Piotr-Goraj/esp-staircase.git
